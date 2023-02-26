@@ -1,5 +1,5 @@
 # The Gray War SRD
-This is the SRD for The Gray War, a WW2-era zombie RPG I originally published on one of the 24-hour RPG threads on 4chan's /tg/ board. The only major difference between this release and that original version is rephrasing of certain things and the fact it's released under a different author name.
+This is the SRD for The Gray War, a WW2-era zombie RPG I originally published in one of the 24-hour RPG threads on 4chan's /tg/ board. The only major difference between this release and that original version is rephrasing of certain things and the fact it's released under a different author name.
 
 ## Story
 In 1940, when Germany, Italy, and the Allies started to clash in Africa, a comet fell somewhere in Libya. Although the comet was initially seized by Italians, it was handed over to Germany, whose scientists started studying it.
