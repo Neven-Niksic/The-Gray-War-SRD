@@ -1,0 +1,28 @@
+When a character tries to do something where the success is not guaranteed, he
+needs to make an action roll (AR). AR is made by rolling an amount of dice
+equal to his attribute + skill. If there's no appropriate skill, attribute is
+used alone.
+All dice that roll 8 or higher are counted as a success, with 10s counting as
+two successes. If a character rolls all 1s, he has made a botched roll,
+triggering a truly bad outcome.
+
+UNCONTESTED ROLLS
+In situations when a character is not opposed by someone else, the amount of
+successes is compared to the difficulty number (DN). If the player rolled an
+amount of successes that's equal to or greater than the DN, he has succeeded at
+the action.
+
+CONTESTED ROLLS
+In situations when a character is opposed, both sides make a separate AR. As
+appropriate, the attribute + skill can be the same or different.
+The side that rolls more successes is considered the winner.
+
+DIFFUCULTY NUMBER
+DN represent how difficult a task is and it's determined by the GM on the basis
+of how difficult something should be to accomplish.
+- easy – DN 1
+- medium – DN 3
+- difficult – DN 5
+- very difficult – DN 7
+- impossible – DN 9
+Some situations can modify the DN. However, it can never be lower than 1.

@@ -1,0 +1,65 @@
+All characters are defined by their level and experience (XP), health (HP),
+attributes, skills, and owned items. Players can also choose their characters'
+name and gender.
+
+ATTRIBUTES
+Characters have five attributes:
+- Strength (STR) – character's ability to apply brute force
+- Endurance (END) – character's resistance to damage, poisons, diseases, and
+other similar occurrences
+- Agility (AGI) – character's ability to move fast and use finer precise
+movements
+- Charisma (CHA) – character's ability to influence others
+- Willpower (WIL) – character's resistance to influence by others and other
+psychological challenges
+- Perception (PER) – character's ability to find and see things around him
+- Luck (LUC) – a measure of how often random events go in character's favor
+Attributes range from 1 to 7 and start at 3, the human average. During
+character creation, a player can choose to lower one attribute to increase
+another one on the 1-to-1 basis. An attribute cannot be lowered below 1 in this
+way.
+
+LEVEL AND XP
+Characters start at level 1 and can reach the maximum of level 5. The following
+table shows how many XP a character needs to gather in order to level up.
+ ___________________
+| LEVEL | XP NEEDED |
+|-------|-----------|
+|   1   |     0     |
+|-------|-----------|
+|   2   |     3     |
+|-------|-----------|
+|   3   |     9     |
+|-------|-----------|
+|   4   |    18     |
+|-------|-----------|
+|   5   |    33     |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+A character should receive 3 XP per session for an average performance. This
+amount can be increased if a character performed very well or a lot, or
+decreased if he performed badly or not often. On average, this lets a character
+reach the maximum level at the end of 11th session.
+When a character levels up, he receives 5 advancement points (AP). 1 AP can be
+used to increase a skill by 1, while 2 AP can be used to increase an attribute
+by 1.
+There's no limit to how high a skill can be increased in this matter, while
+attributes have an upper limit of 7.
+During character creation (level 1), a character has access to 5 AP that can be
+used on skills only.
+All AP have to be spent immediately – they can't be saved for later.
+
+HEALTH
+Character's maximum HP is equal to (END + level) x 3, and it increases by an
+additional +2 on every level up. Should a character's END change, recalcute his
+HP.
+Characters who drop to 0 HP start bleeding out and are rendered unconcious,
+losing 1 HP per turn at the moment of their initiative. If they're not
+stabilized with a medical kit before their HP drops to -4, they die. If they're
+stabilized but their HP is still lower than 1, it becomes 1.
+Without help, stabilized characters heal 1d10 + (END / 2) per week.
+
+SKILLS
+Skills start at 0. There is no upper limit to how high they can be raised.
+If more than one skill can be used in a given situation, either the player will
+choose which one to use or the GM will tell him so.
+The complete list of skills can be found in the skills section.
