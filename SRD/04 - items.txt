@@ -1,0 +1,50 @@
+WEAPONS
+Weapons always deal at least 1 damage to their targets.
+Some weapons treat target's armor as being one step higher or lower than what
+it actually is. 
+Once used, an explosive weapon is used up and can't be used again – the player
+has to erase it from his character sheet.
+ _______________________________
+|   TYPE    | DAMAGE |   ARMOR  |
+|           |        | MODIFIER |
+|-----------|--------|----------|
+|            melee              |
+|-----------|--------|----------|
+|   blunt   |  1d6   |    +1    |
+|-----------|--------|----------|
+|   sharp   |  1d4   |    ±0    |
+|-----------|--------|----------|
+|            thrown             |
+|-----------|--------|----------|
+|   blunt   | 1d6-1  |    +1    |
+|-----------|--------|----------|
+|   sharp   | 1d4-1  |    ±0    |
+|-----------|--------|----------|
+| explosive |  1d8   |    -1    |
+|-----------|--------|----------|
+|            ranged             |
+|-----------|--------|----------|
+|  handgun  |  1d6   |    ±0    |
+|-----------|--------|----------|
+|  shotgun  |  2d8   |    -1    |
+|-----------|--------|----------|
+|   rifle   |  1d12  |    ±0    |
+|-----------|--------|----------|
+|  sniper   | 1d10+2 |    ±0    |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ARMOR
+For armor stats, refer to the DN modifiers table in the combat section.
+
+MEDICAL KITS
+Each individual medical kit can only be used once per character.
+ ________________________________
+|  size  | # of uses | HP healed |
+|--------|-----------|-----------|
+| small  |     1     |    1d4    |
+|--------|-----------|-----------|
+| medium |     2     |   1d6+1   |
+|--------|-----------|-----------|
+| large  |     3     |   1d8+2   |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Once completely used, a medical kit is used up and can't be used again – the
+player has to erase it from his character sheet.

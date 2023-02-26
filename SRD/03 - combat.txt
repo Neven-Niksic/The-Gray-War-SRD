@@ -1,0 +1,82 @@
+INITIATIVE
+Everyone involved in a combat takes their actions in an order determined by
+initiative. Initiative is decided with an unmodified AGI action roll. If
+several characters and/or enemies are tied, the tie is resolved by AGI values. If ties still exist, the initiative between those characters and enemies is decided by exact sums of numbers rolled. All ties beyond this are resolved by repeating this procedure for everyone in a tie until all ties are resolved.
+
+ACTIONS
+There are four kinds of action that a character can do during combat:
+- quick action – whatever a human can normally do in the span of five seconds
+while doing something else
+- movement action – standard walking speed
+- standard action – majority of actions that can be done in one turn while also
+moving and doing a free action
+- long action – an action that requires a full turn
+In one turn, a character can do one movement and one standard action, or two
+movement actions, or one long action. Regardless, he can always do one or more
+quick actions as the GM sees to be appropriate.
+ _________________________
+|     |  ONE MOVE ACTION  |
+| AGI |-------------------|
+|     |  METERS  |  FEET  |
+|-----|----------|--------|
+|  1  |    4     |   15   |
+|-----|----------|--------|
+|  2  |   5.5    |   21   |
+|-----|----------|--------|
+|  3  |    7     |  26.5  |
+|-----|----------|--------|
+|  4  |   8.5    |  32.5  |
+|-----|----------|--------|
+|  5  |    10    |   38   |
+|-----|----------|--------|
+|  6  |   11.5   |   44   |
+|-----|----------|--------|
+|  7  |    13    |  49.5  |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ATTACKING
+Attacks are resolved with an AR against the DN based on range and modified by
+target's armor and any special modifiers. Guns use AGI + Shooting, while
+grenades and thrown weapons use STR + Throwing. Melee weapons use STR + Close
+Combat or AGI + Close Combat depending on the type, and can be used in melee
+range only.
+With thrown weapons, only explosive thrown weapons can be used in melee (by
+dropping or smashing them at the floor if they don't use a timed fuse), in
+which case the attacker too can be damaged by it. Non-explosive thrown weapons
+cannot be thrown in melee range and must be used as melee weapons of the same
+type.
+ __________________________________________
+|          |              DN               |
+| DISTANCE |-------------------------------|
+|          |  MELEE  | THROWN |   RANGED   |
+|----------|---------|--------|------------|
+|          |         |        | handgun: 1 |
+|  melee   |    3    |   1    | shotgun: 3 |
+|          |         |        |  rifle: 5  |
+|          |         |        | sniper: 7  |
+|----------|---------|--------|------------|
+|          |         |        | handgun: 3 |
+|  short   |  can't  |   1    | shotgun: 1 |
+|          | be used |        |  rifle: 3  |
+|          |         |        | sniper: 5  |
+|----------|---------|--------|------------|
+|          |         |        | handgun: 5 |
+|  medium  |  can't  |   5    | shotgun: 5 |
+|          | be used |        |  rifle: 3  |
+|          |         |        | sniper: 5  |
+|----------|---------|--------|------------|
+|          |         |        | handgun: 7 |
+|   far    |  can't  |   9    | shotgun: 9 |
+|          | be used |        |  rifle: 5  |
+|          |         |        | sniper: 3  |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ ____________________________
+|    ARMOR     | DN MODIFIER |
+|--------------|-------------|
+|   no armor   |     -2      |
+|--------------|-------------|
+| light armor  |     ±0      |
+|--------------|-------------|
+| medium armor |     +1      |
+|--------------|-------------|
+| heavy armor  |     +3      |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

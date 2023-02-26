@@ -1,0 +1,26 @@
+Players have access to the following skills.
+- Art – knowledge of history of art, and the ability to correctly estimate
+value of art pieces and recognize forgeries
+- Biology – knowledge of living things, and its practical application
+- Chemistry – knowledge of chemicals and chemical processes, and the ability to
+put it to use
+- Close Combat – ability to fight with melee weapons
+- Deception – ability to bluff and lie
+- Driving – ability to drive land vehicles
+- Forgery – ability to create convincing forged documents and pieces of art
+- Gambling – ability to win at gambling games
+- Intimidation – ability to scare someone into doing or saying something
+- Lock-picking – ability to pick a lock
+- Machinery – knowledge of machines, and ability to use and fix them
+- Medicine – knowledge of medicine, and ability to apply it in treatment of
+injuries, poisons, diseases, and similar
+- Paperwork – ability to efficiently cut through bureaucracy, do paperwork
+right, and recognize forged documents
+- Piloting – ability to fly an aircraft
+- Shooting – ability to shoot a target
+- Sleight of Hand – ability to do minor hand tricks
+- Speech – ability to make someone believe or do something with a speech
+- Throwing – ability to throw something at the intended target
+If a character is playing a gambling game where bluffing plays an important
+role, he should still use gambling instead of deception as the deception skill
+doesn't cover the knowledge of game rules nor the skill of actually playing it.
